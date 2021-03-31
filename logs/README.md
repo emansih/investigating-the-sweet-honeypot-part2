@@ -1,0 +1,1 @@
+This directory contains **RAW LOGS**. You will have to clean / parse it to make anything useful from them.
